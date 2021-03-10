@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 fmt.Println("what a lazy day")
-  fmt.Println("the")
+  fmt.Println("the new day")
 }
